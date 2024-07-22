@@ -1,0 +1,6 @@
+Flask
+BeautifulSoup4
+git+https://github.com/openai/whisper.git
+nlp-id
+Sastrawi
+reportlab
